@@ -19,6 +19,7 @@
 <a href="mailto:devresolutee@gmail.com" target="_blank" style="text-decoration: none"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://Instagram.com/jottav.co/" target="_blank" style="text-decoration: none"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://Twitch.com/resolutee" target="_blank" style="text-decoration: none"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/resolutedev" target="_blank" style="text-decoration: none"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <img height="180px" width="180px" align="right" border="1px" alt="jv" src="https://cdn.discordapp.com/attachments/1084254454464909324/1220934899893272596/download.gif?ex=6610bf3c&is=65fe4a3c&hm=14d81da5303e4a1f9d580d7012d142e72d0c30c4386e79a2354931448850006b&">
 
 </div>
