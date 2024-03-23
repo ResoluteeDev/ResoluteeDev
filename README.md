@@ -53,5 +53,5 @@
 <li><a href="https://resoluteedev.github.io/Aumento-Salarial/">Calculadora de Juros</a></li>
 </ul>
 
-![Snake Animation](https://github.com/ResoluteeDev/ResoluteeDev/blob/output/github-contibution-grid-snake.svg)
+
 
