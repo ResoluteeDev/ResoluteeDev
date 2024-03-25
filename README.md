@@ -29,7 +29,7 @@
 <br>
 <br><br><br>
 
-## Technologies
+## Languages and Technologies
 
 <div style='display: inline_block'><br>
 <img alt='html5' align='center' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
