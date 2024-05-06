@@ -43,6 +43,8 @@
 <div style='display: inline_block'> <br>
 <img alt='html5' align='center' src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white'>
 <img alt='html5' align='center' src='https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white'>
+<img alt='html5' align='center' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
+<img alt='html5' align='center' src='https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white'>
 </div><br>
 
 
