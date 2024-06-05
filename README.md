@@ -20,7 +20,7 @@
 <a href="https://discord.com/invite/uBmM9TpW" target="_blank" style="text-decoration: none"><img alt='discord' src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white'></a>
 <a href="https://Instagram.com/jottav.co/" target="_blank" style="text-decoration: none"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://Twitch.com/resolutee" target="_blank" style="text-decoration: none"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-<img height="180px" width="180px" align="right" border="1px" alt="jv" src="https://cdn.discordapp.com/attachments/1084254454464909324/1220934899893272596/download.gif?ex=663a467c&is=6638f4fc&hm=5850415bac1523544b47930ddd44541f4894e20cdb5fedf0980fce1c2dededc9&">
+<img height="180px" width="180px" align="right" border="1px" alt="jv" src="https://cdn.discordapp.com/attachments/1084254454464909324/1220934899893272596/download.gif?ex=66612abc&is=665fd93c&hm=8d3c432f082eb1aa2ecbe8de20370e4215fedf7161515d06cace696891ee9f7c&">
 
 </div>
 
