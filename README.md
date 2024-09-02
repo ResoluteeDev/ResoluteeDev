@@ -1,22 +1,23 @@
 
 
-### Hello, I'm João Victor 👋🏻 
-##### A technology enthusiast learning to program! 💻
+### *Hello, I'm João Victor* 👋🏻
+##### *A technology enthusiast learning to program!* 💻
 
 
 
 ##
 <br>
 <div>
-    <p>
+    <a href="https://resoluteedev.github.io/Links/">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ResoluteeDev&show_icons=true&theme=merko" alt="stats" />
     <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResoluteeDev&layout=donut&theme=merko" alt="stats" />
-    </p>
+    </a>
     
-        
+    
 </div>
+
+## *Social Media*
 <div style="display: inline_block"><br>
-<h2> Social Media </h2>
 <a href="mailto:devresolutee@gmail.com" target="_blank" style="text-decoration: none"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://discord.com/invite/uBmM9TpW" target="_blank" style="text-decoration: none"><img alt='discord' src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white'></a>
 <a href="https://Instagram.com/jottav.co/" target="_blank" style="text-decoration: none"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -30,22 +31,21 @@
 <br>
 <br><br><br>
 
-## Languages and Technologies
+## *Languages*
 
-<div style='display: inline_block'><br>
-<img alt='html5' align='center' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
-<img alt='html5' align='center' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
-<img alt='html5' align='center' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
+<div style='display: inline_block'>
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 
 </div><br>
 
-## Studying
-<div style='display: inline_block'> <br>
-<img alt='html5' align='center' src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white'>
-<img alt='html5' align='center' src='https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white'>
-<img alt='html5' align='center' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
-<img alt='html5' align='center' src='https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white'>
+## *Technologies & Frameworks*
+<div style='display: inline_block'>
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div><br>
 
 
