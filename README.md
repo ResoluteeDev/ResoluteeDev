@@ -8,10 +8,11 @@
 ##
 <br>
 <div>
-    <a href="https://ResoluteeDev.github.io/Links" target="_blank">
+    <p>
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ResoluteeDev&show_icons=true&theme=merko" alt="stats" />
     <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResoluteeDev&layout=donut&theme=merko" alt="stats" />
-    </a>
+    </p>
+    
         
 </div>
 <div style="display: inline_block"><br>
