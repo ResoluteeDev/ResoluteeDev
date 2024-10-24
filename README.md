@@ -1,59 +1,24 @@
+# 💫 About Me:
+#### *Hello, I'm João Victor 👋🏻<br>A technology enthusiast learning to program! 💻* <br><br>
 
 
-### *Hello, I'm João Victor* 👋🏻
-##### *A technology enthusiast learning to program!* 💻
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jottav.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/resolutedev) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/resolutee) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/devjoaoo_) 
 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ResoluteeDev&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ResoluteeDev&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ResoluteeDev&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-##
-<br>
-<div>
-    <a href="https://resoluteedev.github.io/Links/">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ResoluteeDev&show_icons=true&theme=merko" alt="stats" />
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResoluteeDev&layout=donut&theme=merko" alt="stats" />
-    </a>
-    
-    
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ResoluteeDev&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
-## *Social Media*
-<div style="display: inline_block"><br>
-<a href="mailto:devresolutee@gmail.com" target="_blank" style="text-decoration: none"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://discord.com/invite/uBmM9TpW" target="_blank" style="text-decoration: none"><img alt='discord' src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white'></a>
-<a href="https://Instagram.com/jottav.co/" target="_blank" style="text-decoration: none"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://Twitch.com/resolutee" target="_blank" style="text-decoration: none"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-<img height="180px" width="180px" align="right" border="1px" alt="jv" src="https://cdn.discordapp.com/attachments/1084254454464909324/1220934899893272596/download.gif?ex=66ce973c&is=66cd45bc&hm=7a661596c8db023c04778b5aa6ab9583a6cdfd8f414ae339f4c45a9a59807da2&">
+---
+[![](https://visitcount.itsvg.in/api?id=ResoluteeDev&icon=0&color=2)](https://visitcount.itsvg.in)
 
-</div>
-
-
-<br>
-<br>
-<br><br><br>
-
-## *Languages*
-
-<div style='display: inline_block'>
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-
-</div><br>
-
-## *Technologies & Frameworks*
-<div style='display: inline_block'>
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-</div><br>
-
-
-
-## Some Projects
-<ul>
-<li><a href="https://resoluteedev.github.io/Links/">Links</a> </li> 
-<li><a href="https://resoluteedev.github.io/">Portfólio</a></li>
-<li><a href="https://resoluteedev.github.io/Aumento-Salarial/">Calculadora de Juros</a></li>
-</ul>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
